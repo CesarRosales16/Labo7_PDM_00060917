@@ -26,6 +26,8 @@ class MainActivity : AppCompatActivity() {
             Log.d("LISTA DE REPOS","_________________________________________________________")
             for(repo in repos){
                 Log.d("LISTA DE REPOS",repo.name)
+
+                
             }
         })
     }
